@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(252, 114, 252);
+}
+h1{
+    size: 20px;
+}
+img{
+background-color: brown;
+}
+.mushroom{
+background-color: ghostwhite;   
+}
+.circular{
+    border-radius: 100%;
+}
+.shark{
+background-color: antiquewhite;
+}
+
+#heading{
+    color: rgb(225, 26, 26);
+}
